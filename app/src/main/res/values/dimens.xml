@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textSizeForButton">20sp</dimen>
+    <dimen name="textSizeForEditText">16sp</dimen>
+    <dimen name="paddingForActivity">32dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+</resources>
